@@ -85,7 +85,3 @@ and the web requests are not happening concurrently.
 
 Find the `FIXME (Task 2)` comment inside the `_wardial_async` function,
 and follow the instructions to enable concurrency.
-
-## Submission
-
-Once the test cases pass and the badges turn green, submit your github url to sakai.
